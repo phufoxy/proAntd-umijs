@@ -9,19 +9,19 @@ export default [
         path: '/dashboard/analysis',
         name: 'analysis',
         icon: 'smile',
-        component: '../pages/Dashboard/analysis',
+        component: '../pages/Dashboard/Analysis',
       },
       {
         path: '/dashboard/about',
         name: 'About',
         icon: 'android',
-        component: '../pages/Dashboard/about',
+        component: '../pages/Dashboard/About',
       },
       {
         path: '/dashboard/user',
         name: 'User',
         icon: 'user',
-        component: '../pages/Dashboard/Userpage',
+        component: '../pages/Dashboard/UserPage',
       },
       {
         path: '/dashboard/room',
