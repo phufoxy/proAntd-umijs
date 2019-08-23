@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/",
+    "exact": true,
+    "redirect": "/analysis"
+  },
+  {
+    "path": "/about",
+    "exact": true,
+    "redirect": "/about"
+  }
+]

@@ -1,0 +1,17 @@
+$color_green: #01bcd4;
+$color_white: #ffffff;
+.form {
+  padding: 20px;
+  &Header {
+    padding: 10px 0;
+  }
+  &Title {
+    color: $color_green;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  &Content {
+    background-color: $color_white;
+    padding: 5px;
+  }
+}
